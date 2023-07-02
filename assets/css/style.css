@@ -1,0 +1,12 @@
+*{
+    background-color:gray;
+}
+#maintext{
+    position:fixed;
+    background-color:rgb(47, 71, 124);
+    color:whitesmoke;
+    padding:30px;
+    border:2px solid whitesmoke;
+    margin:140px;
+    font-size:70px;
+}
